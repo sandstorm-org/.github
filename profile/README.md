@@ -5,4 +5,4 @@ We are looking for new contributors for Sandstorm, Tempest, and related apps and
 
 Active sponsorships:
 
-[<img src="https://github.com/sandstorm-org/.github/blob/main/images/lambdatest.svg" style="vertical-align: middle;" width="250" height="45" />](https://www.lambdatest.com/?utm_source=sandstorm&utm_medium=sponsor)
+[<picture><source media="(prefers-color-scheme: dark)" width="200" srcset="https://github.com/sandstorm-org/.github/blob/main/images/testmu_ai-white.svg"><source media="(prefers-color-scheme: light)" width="200" srcset="https://github.com/sandstorm-org/.github/blob/main/images/testmu_ai-black.svg"><img alt="TestMu AI logo" src="https://github.com/sandstorm-org/.github/blob/main/images/testmu_ai-black.svg" width="200"></picture>](https://www.testmu.ai/?utm_source=sandstorm&utm_medium=sponsor)
